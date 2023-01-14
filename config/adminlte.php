@@ -351,7 +351,7 @@ return [
             'text' => 'Crear nuevo post',
             'route' => 'admin.posts.create',
             'icon' => 'fas fa-fw fa-file',
-            'can' => 'admin.potst.crate'
+            'can' => 'admin.posts.crate'
         ],
     ],
 
